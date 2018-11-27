@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------
+BankAccount.java:27: error: non-static variable this cannot be referenced from a static context
+  private static BankAccount addAmount() { amount++; return this;}  // invoked by constructor
+                                                            ^
+1 error
+
+--------------------------------------------------------------------------
+package  需要设置路径，否则不要乱用！ T_T

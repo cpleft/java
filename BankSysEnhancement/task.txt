@@ -1,0 +1,14 @@
+----BEGIN---- 
+Assignment: Add the CheckingAccount class of BankAccount exercise, Designing 
+and Using Classes to throw an IllegalArgumentException in any of the following 
+circumstances: 
+● when the account is constructed with a negative balance, 
+● when a negative amount is deposited, or 
+● when the account is overdrawn (when the amount withdrawn exceeds the current 
+  balance). 
+An IllegalArgumentException is an unchecked exception that is thrown to indicate 
+that a method has been passed an illegal or inappropriate argument. 
+Instructions: 
+● Add (modify if you've already finished) the CheckingAccount class to handle 
+  errors and write a test program as indicated above. 
+----END---- 在BankSystem作业的基础上按以上要求和提示加入异常处理。
